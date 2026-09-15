@@ -8,7 +8,7 @@
 
 ## ✨ Sobre mim
 
-* 💻 Estudante de Ciência da Computação Full-stack: **JavaScript com React, TypeScript e Python com Django, Flask**
+* 💻 Estudante de Ciência da Computação Full-stack
 * 🚀 Aplicando conhecimentos em projetos práticos publicados no GitHub
 * 🤝 Buscando oportunidades para crescer e colaborar com times de tecnologia
 * 💡 Proativa, inovadora e focada em aprendizado contínuo
