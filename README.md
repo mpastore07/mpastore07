@@ -9,7 +9,7 @@
 ## ✨ Sobre mim
 
 * 💻 Estudante de Ciência da Computação Full-stack: **JavaScript com React, TypeScript e Python com Django, Flask**
-* 🚀 Aplicando conhecimentos em projetos prácticos publicados no GitHub
+* 🚀 Aplicando conhecimentos em projetos práticos publicados no GitHub
 * 🤝 Buscando oportunidades para crescer e colaborar com times de tecnologia
 * 💡 Proativa, inovadora e focada em aprendizado contínuo
 
@@ -31,5 +31,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClara-Dev&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mpastore07&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
 </div>
